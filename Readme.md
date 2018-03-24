@@ -1,4 +1,4 @@
-The repo contains a R script and result data set for the Getting and Cleaning Data Course Project.
+The repo contains a R script, the result data set and a code book for the Getting and Cleaning Data Course Project.
 
 Data source:
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
