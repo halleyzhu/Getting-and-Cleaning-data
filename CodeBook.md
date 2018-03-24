@@ -11,8 +11,8 @@ Output data set (tidy_data):
     - Subject:The participant who carried out the experiment.                       
     - Activity: the activity name such as laying and sitting.
 -  Average and standard deviation for each subject and activity is being measured on different features, as indicated by the columns of time and frequency domain.    
-    - For variables starting with "TimeDomain_", it records time 
-    - For variables starting with "FrequencyDomain_", it records frequency 
+    - For variables(i.e. columns) starting with "TimeDomain_", time is the unit of this feature
+    - For variables(i.e. columns starting with "FrequencyDomain_", frequency is the unit of this feature
 
 Please refer to the Readme.md document for further information. 
 
